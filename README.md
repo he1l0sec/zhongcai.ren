@@ -1,2 +1,2 @@
 # zhongcai.ren
-This project is for  sourcre sharing inside CUFE based on nexusPHP.
+This project is for  source sharing inside CUFE based on nexusPHP.
